@@ -1,0 +1,19 @@
+echo "
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Django stuff
+db.sqlite3
+staticfiles/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+" > .gitignore
