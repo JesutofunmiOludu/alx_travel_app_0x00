@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     'rabbitmq',
     'drf_spectacular',
+    'django-seed',
 ]
 
 MIDDLEWARE = [
