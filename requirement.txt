@@ -5,3 +5,4 @@ django-cors-headers
 drf-yasg
 celery
 mysqlclient
+django-seed
